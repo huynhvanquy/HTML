@@ -1,0 +1,46 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.content__exam {
+    padding: 0px 10px;
+    width: 450px;
+    background-color: whitesmoke;
+}
+
+.product__content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.product__card {
+    background-color: white;
+    width: 45%;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.product__info {
+    font-size: 16px;
+    margin: 5px;
+    text-align: left;
+}
+
+.product__name {
+    font-weight: bold;
+}
+
+.icon__content {
+    float: right;
+}
+
+.heart__icon {
+    width: 30px;
+    height: 30px;
+}
+
+.image__product {
+    width: 100%;
+}
